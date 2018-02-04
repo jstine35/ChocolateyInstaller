@@ -4,7 +4,12 @@ Downloadable Installer for Chocolatey so that you don't have to paste text into 
 
 ## How to Installer
 
-Resolve prerequisites (see below), download the latest release, and run it.  Magic!
+Download the [latest release](https://github.com/jstine35/ChocolateyInstaller/releases),
+and run it.
+
+If you're running Windows 8 or newer, then you have a 100% chance of success.  If you're running Windows 7
+then you'll probably need to update Powershell (somewhat tricky).  If you're running Vista then I think 
+the correct response is: **Chocolatey doesn't _really_ support Windows Vista or older.**
 
 ### What does the Installer Do?
 
