@@ -2,9 +2,7 @@
 
 Downloadable Installer for Chocolatey so that you don't have to paste text into a CLI.
 
-## How to Installer
-
-Download the [latest release](https://github.com/jstine35/ChocolateyInstaller/releases),
+Just download the [latest release](https://github.com/jstine35/ChocolateyInstaller/releases),
 and run it.
 
 If you're running Windows 8 or newer, then you have a 100% chance of success.  If you're running Windows 7
